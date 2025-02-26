@@ -27,4 +27,4 @@ Moving to a new country can be overwhelming, but we’re here to simplify the pr
 Check out our latest posts and get ready for a smooth transition to life in Canada! Have questions or topics you'd like us to cover? Let us know in the comments or contact us directly.  
 
 🚀 **Take the shortcut—because settling in Canada shouldn't be complicated!**  
-![Car Image](car.png)
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
