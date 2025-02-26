@@ -21,7 +21,7 @@ title                    : "The Canada Shortcut"
 title_separator          : "-"
 subtitle                 : "Helping newcomers settle in Canada with easy, practical guides" # site tagline that appears below site title in masthead
 name                     : # "Your Name"
-description              : "Your go-to resource for immigration, jobs, housing, and life in Canada."
+description              : "Your go-to resource for fun activities near your community."
 url                      : https://thecanadashortcut.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
