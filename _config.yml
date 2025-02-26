@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "The Canada Shortcut"
 title_separator          : "-"
 subtitle                 : "Helping newcomers settle in Canada with easy, practical guides" # site tagline that appears below site title in masthead
-name                     : # "Your Name"
+name                     : # "Nicolas Arce"
 description              : "Your go-to resource for fun activities near your community."
 url                      : https://thecanadashortcut.github.io/
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Nicolas Arce"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  location         : "Somewhere*
   email            :
   links:
     - label: "Email"
