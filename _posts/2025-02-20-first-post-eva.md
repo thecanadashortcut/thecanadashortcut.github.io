@@ -1,4 +1,11 @@
 ---
+title: "*Welcome to The Canada Shortcut"
+categories:
+  - Edge Case
+tags:
+  - content
+  - first
+---
 
 ### *Welcome to The Canada Shortcut! Your Guide to a Smooth Start* 🗺️  
 
