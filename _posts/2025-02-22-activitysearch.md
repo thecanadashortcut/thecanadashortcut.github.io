@@ -20,6 +20,7 @@ Looking for fun activities for all can be difficult when you've just arrived, bu
 2️⃣🎬 **Toronto International Film Festival:** One of the most prominent and well-known film festivals in the world, the Toronto International Film Festival (TIFF) takes place every September. Filmmakers, business people, and moviegoers from all around the world come to celebrate international cinema. 
 3️⃣🥃 **Distillery District:** Cobblestone streets and Victorian-era buildings can be seen in Toronto's historic Distillery District. Originally a whiskey distillery, it is now a center of culture with restaurants, shops, cafes, and art galleries. Visitors can go to activities like the Toronto Christmas Market, eat, and browse stores. It's a fantastic place to discover Toronto's inventiveness and history. 
 4️⃣ **Prepare for Interviews:** Be ready for common Canadian interview questions and practice your answers.  
-5️⃣ **Consider Volunteer Work:** Gaining Canadian experience through volunteering can help boost your resume.  
+5️⃣ **Consider Volunteer Work:** Gaining Canadian experience through volunteering can help boost your resume. 
+ 
 
 📍 **Need more help?** Stay tuned for detailed job market insights and resume tips!  
