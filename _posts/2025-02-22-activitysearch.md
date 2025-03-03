@@ -20,7 +20,7 @@ Looking for fun activities for all can be difficult when you've just arrived, bu
 
 2️⃣🎬 **WinterFest:** Toronto WinterFest is a free, annual winter event held at Exhibition Place, featuring ice skating, light displays, live music, and family-friendly activities. It celebrates the winter season with fun, festive attractions for all ages.
 
-![CAR](../assets/images/carpath.PNG "Car")
+![CAR](https://thecanadashortcut.github.io/assets/images/carpath.PNG "Car")
 
 3️⃣🥃 **Distillery District:** Cobblestone streets and Victorian-era buildings can be seen in Toronto's historic Distillery District. Originally a whiskey distillery, it is now a center of culture with restaurants, shops, cafes, and art galleries. Visitors can go to activities like the Toronto Christmas Market, eat, and browse stores. It's a fantastic place to discover Toronto's inventiveness and history. 
 
