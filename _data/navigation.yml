@@ -3,10 +3,10 @@ main:
   - title: "About"
     url: 
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/
   - title: "Pages"
+    url: /pages/
+  - title: "Projects"
     url: /portfolio/
-  - title: "Collections"
-    url: /collection-archive/
   - title: "Sitemap"
     url: /sitemap/
