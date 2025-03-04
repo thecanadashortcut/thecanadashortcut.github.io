@@ -7,6 +7,7 @@ tags:
   - Buying a Home
   - Newcomers
   - Canada
+layout: single
 ---
 
 # **How to Find Your First Home in Canada** 🏡  
