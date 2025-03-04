@@ -10,7 +10,7 @@ tags:
 layout: single
 ---
 
-# **How to Find Your First Home in Canada** 🏡  
+# ****   
 
 📅 *Published: {{ page.date | date: "%B %d, %Y" }}*  
 
