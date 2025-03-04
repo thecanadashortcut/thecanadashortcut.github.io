@@ -4,8 +4,6 @@ main:
     url: /about/
   - title: "Posts"
     url: /posts/
-  - title: "Pages"
-    url: /pages/
   - title: "Projects"
     url: /portfolio/
   - title: "Sitemap"
