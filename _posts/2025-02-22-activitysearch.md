@@ -32,7 +32,7 @@ Toronto WinterFest is a free, annual winter event held at Exhibition Place, feat
 ### 4️ **WinterLight Festival:**
 The Winter Light Festival at Ontario Place is a free event that transforms the waterfront into a winter wonderland with stunning light displays and interactive art. Running from late December to February, it offers a festive experience perfect for strolls and photos.
 
-![ist](https://thecanadashortcut.github.io/assets/images/DistilleryWinterLight.jpeg)
+![ist](https://thecanadashortcut.github.io/assets/images/WinterLight.jpeg)
 
 
 ### 5️  **Winter Garden Theatre:** 
