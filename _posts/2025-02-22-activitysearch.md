@@ -23,7 +23,7 @@ Looking for fun activities for all can be difficult when you've just arrived, bu
 ![CAR](https://www.freepik.com/free-vector/road-map-with-pointers-flat-style_2093855.htm#fromView=keyword&page=1&position=4&uuid=7341a021-8b44-4edb-a2ef-39bedb50f953&query=Car+Path)
 
 3️⃣🥃 **Distillery District:** Cobblestone streets and Victorian-era buildings can be seen in Toronto's historic Distillery District. Originally a whiskey distillery, it is now a center of culture with restaurants, shops, cafes, and art galleries. Visitors can go to activities like the Toronto Christmas Market, eat, and browse stores. It's a fantastic place to discover Toronto's inventiveness and history. 
-![](thecanadashortcut.github.io/assets/images/DistilleryWinterVillage.jpg)
+![ist](thecanadashortcut.github.io/assets/images/DistilleryWinterVillage.jpg)
 
 4️⃣ **WinterLight Festival:** The Winter Light Festival at Ontario Place is a free event that transforms the waterfront into a winter wonderland with stunning light displays and interactive art. Running from late December to February, it offers a festive experience perfect for strolls and photos.
 
