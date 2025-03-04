@@ -32,8 +32,13 @@ Toronto WinterFest is a free, annual winter event held at Exhibition Place, feat
 ### 4️ **WinterLight Festival:**
 The Winter Light Festival at Ontario Place is a free event that transforms the waterfront into a winter wonderland with stunning light displays and interactive art. Running from late December to February, it offers a festive experience perfect for strolls and photos.
 
+![ist](https://thecanadashortcut.github.io/assets/images/DistilleryWinterLight.jpeg)
+
+
 ### 5️  **Winter Garden Theatre:** 
 You have to check out the Winter Garden Theatre—it’s Toronto’s hidden gem! This place isn’t just a theatre; it’s a masterpiece! Opened in 1913, it’s the last surviving double-decker theatre in the world—yes, you read that right. The upper Winter Garden Theatre is like stepping into a fairytale with its stunning Art Nouveau design, starry skies, and actual plants growing in the ceiling! After a jaw-dropping restoration in the '80s, it’s now one of the most iconic, magical places in the city. Whether you're catching a Broadway show, a musical, or just soaking in the atmosphere, this venue will blow you away. It’s a must-see for anyone who loves theatre, architecture, or just wants to experience something unforgettable in Toronto.
- 
+
+ ![ist](https://thecanadashortcut.github.io/assets/images/Theatre.jpg)
+
 
   
