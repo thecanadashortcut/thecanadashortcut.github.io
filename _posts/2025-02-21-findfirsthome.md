@@ -7,7 +7,7 @@ tags:
   - Buying a Home
   - Newcomers
   - Canada
-layout: single
+layout: single 
 ---
 
 # **Most Iconic Toronto Landmarks**   

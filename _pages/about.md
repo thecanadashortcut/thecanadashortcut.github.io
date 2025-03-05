@@ -16,6 +16,13 @@ last_modified_at: 2022-05-27T11:59:26-04:00
 toc: true
 ---
 
+# Welcome to The Toronto Shortcut, a dedicated platform designed to help newcomers feel at home in Toronto. Our mission is to make your transition smoother by offering a comprehensive guide to leisure activities across the city. Whether you're exploring local parks, discovering hidden gems, or looking for cultural experiences, our website provides a curated list of must-see spots and things to do. With practical tips, insider recommendations, and easy-to-navigate resources, we aim to connect you with the best of what Toronto has to offer, all while helping you build a sense of belonging in your new home.
+
+
+
+
+## Made with : 
+
 Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
 
 {% include gallery id="layouts_gallery" caption="Examples of included layouts `splash`, `single`, and `archive`." %}
