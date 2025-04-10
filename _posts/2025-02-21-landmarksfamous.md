@@ -41,4 +41,5 @@ A trip to the Royal Ontario Museum (ROM) is a journey through time and culture. 
 ✅ When visiting in the Winter, use the PATH and the TTC.  
 ✅ Remember to have fun!  
 
+
 📍 **Need more details?** Stay tuned for our in-depth winter guide!  
